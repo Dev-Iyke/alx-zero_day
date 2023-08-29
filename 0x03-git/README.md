@@ -1,1 +1,1 @@
-The first readme inside 0x03-git
+Updated the readme inside 0x03-git
